@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Personeelsverloop1]]></title>
         <description><![CDATA[Personeelsverloop1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/personeelsverloop1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 08:49:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 08:54:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/personeelsverloop1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Personeelsverloop terugdringen</p>]]></description>
-            <link>undefined4f069d74-2bc9-44de-9411-9654b2642766/index.html</link>
+            <link>https://thegrid.ai/personeelsverloop1/4f069d74-2bc9-44de-9411-9654b2642766/index.html</link>
             <guid isPermaLink="false">4f069d74-2bc9-44de-9411-9654b2642766</guid>
-            <pubDate>Fri, 26 Feb 2016 08:48:54 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 08:53:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
