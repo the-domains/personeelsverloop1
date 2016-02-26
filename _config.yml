@@ -1,6 +1,6 @@
 name: Personeelsverloop1
 favicon: null
-layout_spectrum: 0.35701483068987727
+layout_spectrum: 0.92346
 typography_spectrum: 0.58306
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#d5cbbf'
     - '#4c4c4c'
     - '#09922e'
-  brandStrength: 0.14440684602595866
-  lightness: 0.9375
-  saturation: 0.40745723620057106
-  rhythmicContrast: 0.6366021977737546
+  brandStrength: 0.8125
+  lightness: 0.0625
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
